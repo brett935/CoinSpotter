@@ -13,4 +13,4 @@ sudo apt-get install npm;
 ```
 
 NPM: v3.5.2
-NodeJS: v4.2.6 
+NodeJS: v9.10.0
