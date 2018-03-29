@@ -10,6 +10,9 @@ Below is software that you will need to have installed to run this application.
 
 ```
 sudo apt-get install npm;
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
 ```
 
 NPM: v3.5.2
